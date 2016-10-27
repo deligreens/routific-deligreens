@@ -154,7 +154,7 @@ GEM
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 3.0)
       netrc (~> 0.7)
-    routific (1.1.0)
+    routific (1.0.1)
       json (~> 1.8)
       rest-client (~> 1.7)
     sass (3.4.22)
