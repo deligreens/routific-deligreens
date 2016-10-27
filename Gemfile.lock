@@ -216,7 +216,7 @@ DEPENDENCIES
   puma
   rails (= 5.0.0)
   redis
-  routific
+  routific (~> 1.0.1)
   sass-rails
   simple_form
   spring
